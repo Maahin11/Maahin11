@@ -4,4 +4,4 @@
 - 🌱 Currently learning Python
 - 📫 How to reach me: [Social Media Links]  
 - 😄 Pronouns: He  
-- ⚡ Fun fact: I’m passionate about solving complex problems and securing systems, and I love learning new technologies every day!
+- ⚡ Fun fact: I’m passionate about learning new technologies daily!
