@@ -2,6 +2,6 @@
 
 - 👀 I’m interested in building a career in Cybersecurity
 - 🌱 Currently learning Python
-- 📫 How to reach me: [Social Media Links]  
+- 📫 How to reach me: linkedin.com/in/md-jubayerul-hasan-mahin
 - 😄 Pronouns: He  
 - ⚡ Fun fact: I’m passionate about learning new technologies daily!
