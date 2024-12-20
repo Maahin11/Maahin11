@@ -1,11 +1,11 @@
 👋 Hello! I'm Md. Jubayerul Hasan Mahin 
-🎓 Bachelor's in Computer Science & Engineering (CSE) | 🚀 Aspiring Cybersecurity Professional
+🎓 Persuing Bachelor's in Computer Science & Engineering (CSE) | 🚀 Aspiring Cybersecurity Professional
 
 ---
 
 ## 👨‍💻 **About Me**
 - 🔍 **Career Goal**: Building a successful career in **Cybersecurity** to secure systems and prevent data breaches.  
-- 🌱 **Currently Learning**: Python, Network Security, and Ethical Hacking.  
+- 🌱 **Currently Learning**: Python with Django.  
 - 🛠 **Skills**: Programming, Web Development, and Creative Design.  
 - 📚 **Interests**: Exploring secure software architectures and learning about advanced threat detection mechanisms.  
 - ⚡ **Fun Fact**: I’m passionate about staying updated with emerging technologies every day!  
