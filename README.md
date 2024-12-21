@@ -1,4 +1,4 @@
-👋 **Hello! I'm MD. Jubayerul Hasan Mahin** 
+# 👋 **Hello! I'm MD. Jubayerul Hasan Mahin**  
 🎓 **Pursuing Bachelor's in Computer Science & Engineering (CSE) | 🚀 Aspiring Cybersecurity Professional**
 
 ---
@@ -8,7 +8,7 @@
 - 🌱 **Currently Learning**: Python with Django.  
 - 🛠 **Skills**: Programming, Web Development, and Creative Design.  
 - 📚 **Interests**: Exploring secure software architectures and learning about advanced threat detection mechanisms.  
-- ⚡ **Fun Fact**: I’m passionate about staying updated with emerging technologies every day!  
+- ⚡ **Fun Fact**: I challenge myself to learn one new cybersecurity concept or tool every week!  
 
 📫 **Reach Me On**: [LinkedIn](https://linkedin.com/in/md-jubayerul-hasan-mahin)  
 
@@ -23,7 +23,7 @@
 
 ## 💻 **Technical Skills**
 
-**Programming & Markup Languages:**  
+### **Programming & Markup Languages:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
@@ -31,7 +31,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
-**Tools & Platforms:**  
+### **Tools & Platforms:**  
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
@@ -52,4 +52,5 @@
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Maahin11&icon=0&color=2)
 
 ---
+
 🌱 **I’m always open to collaborating on innovative projects or discussing new ideas. Feel free to connect with me!**
