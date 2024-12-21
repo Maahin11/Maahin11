@@ -1,6 +1,6 @@
-👋 Hello! I'm MD. Jubayerul Hasan Mahin 
-🎓 Pursuing Bachelor's in Computer Science & Engineering (CSE) | 🚀 Aspiring Cybersecurity Professional
-🌱 I’m always open to collaborating on innovative projects or discussing new ideas. Feel free to connect with me!
+👋 **Hello! I'm MD. Jubayerul Hasan Mahin** 
+🎓 **Pursuing Bachelor's in Computer Science & Engineering (CSE) | 🚀 Aspiring Cybersecurity Professional**
+🌱 **I’m always open to collaborating on innovative projects or discussing new ideas. Feel free to connect with me!**
 ---
 
 ## 👨‍💻 **About Me**
