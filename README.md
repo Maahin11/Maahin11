@@ -7,7 +7,7 @@
 - 🔍 **Career Goal**: Building a successful career in **Cybersecurity** to secure systems and prevent data breaches.  
 - 🌱 **Currently Learning**: Python with Django.  
 - 🛠 **Skills**: Programming, Web Development, and Creative Design.  
-- 💼 **Current Role**: I am also a **Graphic Designer Intern** at the **Center for Excellence in Teaching and Learning (CETL)**.  
+- 💼 **Current Role**: I am also a **Graphic Designer Intern** at the **Center of Excellence for Teaching and Learning (CETL)**.  
 - 📚 **Interests**: Exploring secure software architectures and learning about advanced threat detection mechanisms.  
 - ⚡ **Fun Fact**: I challenge myself to learn one new cybersecurity concept or tool every week!  
 
