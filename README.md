@@ -1,7 +1,3 @@
-Here's a more visually engaging and professional version of your text:  
-
----
-
 # 👋 **Hello! I'm MD. Jubayerul Hasan Mahin**  
 🎓 **Pursuing Bachelor's in Computer Science & Engineering (CSE) | 🚀 Aspiring Cybersecurity Professional**  
 
