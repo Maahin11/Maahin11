@@ -1,16 +1,16 @@
-# 💫 Overview  
+# Overview  
 
-# 👋 **Hello! I'm MD. Jubayerul Hasan Mahin**  
-🎓 **Pursuing Bachelor's in Computer Science & Engineering (CSE) | 🚀 Aspiring Cybersecurity Professional** Python Developer | React.js Enthusiast | Django Developer 
+# **Hello! I'm MD. Jubayerul Hasan Mahin**  
+ **Pursuing Bachelor's in Computer Science & Engineering (CSE) | 🚀 Aspiring Cybersecurity Professional** Python Developer | React.js Enthusiast | Django Developer 
 
 ---  
 
 ## **About Me**  
-🔐 Passionate about **Cybersecurity**, dedicated to securing systems and preventing data breaches.  
-💻 Exploring **Python with Django** to build secure, scalable applications.  
-🎨 Leveraging **graphic design** skills as a **Graphic Designer Intern** at **CETL**.  
-🌍 Lifelong learner, mastering **one cybersecurity concept or tool every week**!  
-⚡ Fun Fact: I love blending **design and security** to create seamless, user-friendly experiences.  
+ Passionate about **Cybersecurity**, dedicated to securing systems and preventing data breaches.  
+ Exploring **Python with Django** to build secure, scalable applications.  
+ Leveraging **graphic design** skills as a **Graphic Designer Intern** at **CETL**.  
+ Lifelong learner, mastering **one cybersecurity concept or tool every week**!  
+ Fun Fact: I love blending **design and security** to create seamless, user-friendly experiences.  
 
 ---
 
