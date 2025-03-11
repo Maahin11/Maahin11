@@ -1,7 +1,7 @@
 # Overview  
 
 # **Hello! I'm MD. Jubayerul Hasan Mahin**  
- **Pursuing Bachelor's in Computer Science & Engineering (CSE) | 🚀 Aspiring Cybersecurity Professional** | Python Developer | React.js Enthusiast | Django Developer 
+ **Pursuing Bachelor's in Computer Science & Engineering (CSE) | 🚀 Aspiring Cybersecurity Professional** | **Python Developer** | **React.js** | **Django** 
 
 ---  
 
